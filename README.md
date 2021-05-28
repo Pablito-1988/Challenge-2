@@ -3,7 +3,7 @@
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-link Heroku: ('https://challenge2-pablo.herokuapp.com/')
+link Heroku: ('https://challenge2-pablo.herokuapp.com/')<br>
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
